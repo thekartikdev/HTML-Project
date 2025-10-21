@@ -1,2 +1,2 @@
 # HTML-Project
-The project is my personal Portfolio
+This project is my personal Portfolio
